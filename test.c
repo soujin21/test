@@ -21,6 +21,7 @@ int main(){
 	payment= total-(total*discount)/100;
 	printf("%lf\n",total);
 	printf("%lf",payment);
+    printf("hello world");
 	
 	
 }
